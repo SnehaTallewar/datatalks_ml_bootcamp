@@ -1,4 +1,3 @@
-# datatalks_ml_bootcamp
 # Machine Learning Bootcamp – DataTalksClub  
 
 This repository contains homework assignments and practice notebooks completed as part of the **Machine Learning Zoomcamp** by [DataTalksClub](https://datatalks.club).    
